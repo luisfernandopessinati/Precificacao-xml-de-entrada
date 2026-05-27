@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/05/18 15:16:49.000.288,=C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/18 15:17:39.000.762,C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\Pressificacao.dproj=C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/05/18 15:17:45.000.978,C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\Precificacao.dproj=C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\Pressificacao.dproj</Transaction>
+    <Transaction>2026/05/18 15:18:33.000.938,C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\UntPrecif.dfm=C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/05/18 15:18:33.000.938,C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\UntPrecif.pas=C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/18 15:19:08.000.008,C:\Users\danie\OneDrive\Documents\Luis\Projetos delphi\Precificacao\UntPrecif.dfm=C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\UntPrecif.dfm</Transaction>
+    <Transaction>2026/05/18 15:19:08.000.008,C:\Users\danie\OneDrive\Documents\Luis\Projetos delphi\Precificacao\UntPrecif.pas=C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\UntPrecif.pas</Transaction>
+    <Transaction>2026/05/18 15:19:16.000.838,C:\Users\danie\OneDrive\Documents\Luis\Projetos delphi\Precificacao\Precificacao.dproj=C:\Users\danie\OneDrive\Documents\Embarcadero\Studio\Projects\Precificacao.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
